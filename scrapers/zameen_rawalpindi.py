@@ -15,9 +15,9 @@ base_url = "https://www.zameen.com/Plots/Rawalpindi-41-{}.html"
 all_plots = []
 
 START_PAGE = 1
-MAX_PAGE = 128
+MAX_PAGE = 130
 
-for page in range(START_PAGE, MAX_PAGE):
+for page in range(START_PAGE, MAX_PAGE +1):
     url = base_url.format(page)
 
     print(f"Scraping page {page}...")
@@ -47,21 +47,21 @@ for page in range(START_PAGE, MAX_PAGE):
             cards = soup.find_all('article')
 
         for card in cards:
-            price_tag = card.find('span', {'aria-label: Price'})
+            price_tag = card.find('span', {'aria-label': 'Price'})
             price = price_tag.get_text(strip=True) if price_tag else None
 
             loc_tag = card.find('div', {'aria-label': 'Location'})
             location = loc_tag.get_text(strip=True) if loc_tag else None
 
-            area_tag = card.find('span', {'aria-label: Area'})
-            area =price_tag.get_text(strip=True) if area_tag else None
+            area_tag = card.find('span', {'aria-label': 'Area'})
+            area =area_tag.get_text(strip=True) if area_tag else None
 
             title_tag = card.find('h2') or card.find('a', title=True)
             title = title_tag.get_text(strip=True) if title_tag else None
 
-            link_tag = card.find('a', hred=True)
+            link_tag = card.find('a', href=True)
             link = ("https://www.zameen.com" + link_tag['href']) if link_tag else None
-
+            
             if price or location:
                 all_plots.append({
                     'title':title,
