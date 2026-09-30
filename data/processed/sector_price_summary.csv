@@ -1,0 +1,160 @@
+city,sector,avg_price,median_price,avg_price_per_marla,listing_count,latitude,longitude
+Islamabad,AWT - Block G,0.32,0.32,0.032,1,33.6289,72.8643
+Islamabad,C-15,0.32,0.32,0.064,1,33.6938118,73.0651511
+Islamabad,C-16,2.85,2.85,0.142,2,33.6938118,73.0651511
+Islamabad,D-12/3,15.25,15.25,0.762,1,33.7055853,72.9518842
+Islamabad,DHA Phase 2 - Sector D,4.15,4.15,0.208,1,33.5309951,73.2095943
+Islamabad,E-12/1,2.1,2.1,0.477,1,33.6938118,73.0651511
+Islamabad,Engineers Co-operative Housing,1.7,1.7,0.085,1,33.6975,72.8702
+Islamabad,F-11,7.0,7.0,0.753,1,33.6843932,72.989544
+Islamabad,Faisal Hills,0.82,0.62,0.096,3,33.7297,72.8222
+Islamabad,Gulberg Residencia - Block A,1.8,1.8,0.165,1,33.5804,73.1764
+Islamabad,Gulberg Residencia - Block C,3.4,3.4,0.17,1,33.5804,73.1764
+Islamabad,I-12,1.5,1.5,0.3,1,33.6273836,73.0046825
+Islamabad,I-12/1,2.25,2.25,0.281,1,33.6116096,72.9674477
+Islamabad,Margalla Enclave,4.9,4.9,0.49,1,33.6999851,73.1756018
+Islamabad,PECHS - Block M,0.32,0.32,0.064,1,33.5786,72.8421
+Islamabad,Park Enclave 1,5.6,5.6,0.28,1,33.6724238,73.1557793
+Islamabad,Top City 1,0.98,0.98,0.098,1,33.5601,72.8687
+Rawalpindi,7th Road,7.5,7.5,0.923,4,33.5457403,73.0537983
+Rawalpindi,Adiala Road,0.8,0.49,0.104,30,33.5778124,73.0650131
+Rawalpindi,Airport Housing Society,0.78,0.76,0.112,8,33.5941022,73.1307386
+Rawalpindi,Airport Housing Society - Sector 3,2.0,2.0,0.1,1,33.5941022,73.1307386
+Rawalpindi,Airport Housing Society - Sector 4,0.83,0.85,0.145,28,33.5941022,73.1307386
+Rawalpindi,Airport Road,18.0,18.0,1.059,1,33.6025544,73.1291696
+Rawalpindi,Al-Haram City,0.18,0.2,0.031,18,33.5025799,72.9570594
+Rawalpindi,Al-Haram City - Phase 1,0.25,0.14,0.029,17,33.5025799,72.9570594
+Rawalpindi,Al-Haram City - Phase 2,0.18,0.18,0.037,3,33.5025799,72.9570594
+Rawalpindi,Ayub National Park,24.0,24.0,0.6,1,33.5706322,73.0856677
+Rawalpindi,Bahria Business District,25.0,25.0,0.962,1,33.5024751,73.069744
+Rawalpindi,Bahria Greens - Overseas Enclave,1.63,1.1,0.14,3,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 1,3.64,3.15,0.144,15,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 2,1.84,1.8,0.164,30,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 3,2.72,1.9,0.156,38,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 4,2.25,2.25,0.112,2,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 5,2.12,2.0,0.157,59,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 6,1.71,1.67,0.162,16,33.4735,73.091
+Rawalpindi,Bahria Greens - Overseas Enclave - Sector 7,2.0,1.9,0.2,7,33.4735,73.091
+Rawalpindi,Bahria Hamlet,2.47,1.92,0.091,38,33.4891,73.1232
+Rawalpindi,Bahria Safari Valley - Sector B,1.1,1.1,0.11,1,33.4848621,73.096708
+Rawalpindi,Bahria Town - Safari Villas,2.67,2.67,0.201,2,33.4544322,73.2179204
+Rawalpindi,Bahria Town Phase 1,3.27,3.37,0.156,22,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 2,4.74,4.88,0.28,46,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 2 Extension,2.8,2.8,0.254,1,33.5358,73.1098
+Rawalpindi,Bahria Town Phase 3,3.46,3.5,0.219,61,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 4,4.74,4.5,0.285,39,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 5,3.38,2.95,0.249,33,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 6,4.07,3.5,0.224,13,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 7,2.17,1.92,0.166,118,33.5701202,73.1163357
+Rawalpindi,Bahria Town Phase 8,0.94,0.85,0.107,86,33.5012685,73.0872635
+Rawalpindi,Bahria Town Phase 8 - Abu Bakar Block,0.95,0.94,0.133,22,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Ali Block,0.81,0.81,0.137,36,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Bahria Orchard,0.45,0.35,0.041,15,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Bahria Residencia,0.38,0.38,0.076,1,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block A,1.81,1.7,0.098,79,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block A1,1.95,2.2,0.115,11,33.5012685,73.0872635
+Rawalpindi,Bahria Town Phase 8 - Block B,1.43,1.35,0.119,36,33.4848621,73.096708
+Rawalpindi,Bahria Town Phase 8 - Block C,1.41,1.4,0.133,47,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block D,1.54,1.4,0.135,26,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block E,1.49,1.3,0.134,35,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block G,0.91,0.9,0.077,19,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block H,1.27,1.27,0.119,38,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block I,1.09,1.1,0.108,52,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block J,0.88,0.88,0.101,27,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block K,0.55,0.55,0.061,35,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block L,0.8,0.78,0.095,92,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block M,0.83,0.76,0.15,55,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block N,0.7,0.71,0.071,10,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Block P,1.89,1.55,0.088,41,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Club City,2.34,2.22,0.093,14,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Eden Lake View Block,1.76,1.85,0.167,5,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Hill Top Commercial,3.0,3.0,0.6,1,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Khalid Block,0.82,0.82,0.099,4,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Rafi Block,0.94,0.76,0.148,21,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Safari Homes,1.05,1.05,0.131,1,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Safari Valley,0.8,0.77,0.113,6,33.4848621,73.096708
+Rawalpindi,Bahria Town Phase 8 - Sector E-1,0.91,0.75,0.122,9,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector E-3,0.64,0.65,0.126,10,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector E-4,0.59,0.63,0.117,5,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector F-1,1.15,1.2,0.111,33,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector F-2,1.02,1.09,0.101,25,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector F-3,0.88,0.75,0.082,27,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector F-4,1.15,1.17,0.057,10,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Sector F-5,0.55,0.55,0.028,1,33.4855018,73.0971219
+Rawalpindi,Bahria Town Phase 8 - Umer Block,0.98,0.95,0.127,32,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 - Usman Block,0.9,0.9,0.125,49,33.4848621,73.096708
+Rawalpindi,Bahria Town Phase 8 - Usman D Block,2.66,2.65,0.11,15,33.4862,73.0874
+Rawalpindi,Bahria Town Phase 8 Extension,0.6,0.6,0.055,1,33.4862,73.0874
+Rawalpindi,Bank Colony,0.25,0.25,0.05,1,33.6065188,73.0169491
+Rawalpindi,Blue World City,0.3,0.26,0.055,35,33.3674961,72.8668694
+Rawalpindi,Blue World City - Sector 1,0.23,0.2,0.042,7,33.3644138,72.843123
+Rawalpindi,Caltex Road,1.0,1.0,0.2,1,33.5485822,73.0735232
+Rawalpindi,Capital Smart City,0.65,0.57,0.066,100,33.4407844,72.8587589
+Rawalpindi,Chaklala Scheme 1,5.23,5.1,0.304,3,33.5957713,73.0773475
+Rawalpindi,Chaklala Scheme 3,3.17,2.6,0.226,12,33.5695006,73.0667911
+Rawalpindi,Chakri,0.09,0.09,0.012,2,32.6835327,73.3517852
+Rawalpindi,Chakri Road,0.21,0.13,0.033,7,33.5591325,73.0149542
+Rawalpindi,Defence Colony,1.85,1.85,0.103,1,33.5538041,73.093688
+Rawalpindi,Defence Road,0.63,0.75,0.132,3,33.5451816,73.0653656
+Rawalpindi,Fazaia Housing Scheme,2.5,2.5,0.25,1,33.6037128,72.8413436
+Rawalpindi,Fazal Town Phase 2,0.3,0.3,0.06,2,33.6056405,73.1095298
+Rawalpindi,French Housing Society,0.5,0.5,0.1,1,33.5091195,73.0420605
+Rawalpindi,GT Road,0.2,0.2,0.04,1,32.9452295,73.7160216
+Rawalpindi,Ghauri Town,0.52,0.52,0.084,2,33.8022151,72.7501235
+Rawalpindi,Girja Road,0.29,0.32,0.046,5,33.5596411,72.9684428
+Rawalpindi,Gorakhpur,0.48,0.48,0.069,1,33.4764789,73.0331298
+Rawalpindi,Gulistan Colony,0.79,0.79,0.121,2,33.570708,73.0920455
+Rawalpindi,Gulshan Abad,0.97,0.8,0.093,17,33.6603777,73.0830223
+Rawalpindi,Gulshan Abad Sector 1,1.31,1.15,0.109,9,33.6536015,73.0795873
+Rawalpindi,Gulshan Abad Sector 2,1.8,1.45,0.121,15,33.6536015,73.0795873
+Rawalpindi,Gulshan Abad Sector 3,1.17,1.15,0.103,11,33.6536015,73.0795873
+Rawalpindi,Gulzar-e-Quaid Housing Society,4.0,4.0,0.2,1,33.5991121,73.1285709
+Rawalpindi,Hub Commercial,3.5,3.5,0.7,2,33.4916714,73.0957614
+Rawalpindi,Judicial Colony,4.21,4.1,0.21,5,33.5952136,73.1352538
+Rawalpindi,Khan Village,0.17,0.17,0.026,4,33.4891881,72.9569085
+Rawalpindi,Kohala,0.23,0.18,0.034,3,33.5291308,72.9725297
+Rawalpindi,Lalazar,0.76,0.74,0.189,3,33.5683596,73.0550925
+Rawalpindi,Mandra - Chakwal Road,0.07,0.07,0.014,1,32.9560989,72.8664466
+Rawalpindi,Media Town,3.19,3.12,0.279,16,33.5639764,73.1222157
+Rawalpindi,Media Town - Block A,2.95,2.8,0.275,5,33.5639764,73.1222157
+Rawalpindi,Morgah,0.65,0.65,0.13,1,33.5474362,73.0838121
+Rawalpindi,New Lalazar,1.55,1.3,0.19,5,33.5588558,73.067793
+Rawalpindi,PGSHF - Block A,1.58,1.58,0.079,1,33.4542,72.9515
+Rawalpindi,PGSHF - Block C,0.93,0.93,0.133,1,33.4542,72.9515
+Rawalpindi,Peshawar Road,8.4,2.95,0.571,7,33.61362,72.9960127
+Rawalpindi,Punjab Government Servant Housing Foundation (PGSHF),1.02,0.92,0.107,130,33.4542,72.9515
+Rawalpindi,Qurtaba City,0.26,0.26,0.052,2,33.3379846,72.7666462
+Rawalpindi,RCCI,2.78,2.78,0.069,2,33.5184144,73.2387894
+Rawalpindi,Range Road,2.25,2.25,0.45,1,33.5752013,73.0561168
+Rawalpindi,Rawat Industrial Estate,2.6,2.7,0.066,12,33.5184144,73.2387894
+Rawalpindi,Rose Garden,0.48,0.5,0.093,22,33.5874801,73.0857514
+Rawalpindi,Saddar,19.29,22.0,0.533,3,33.5978846,73.050101
+Rawalpindi,Saffron City,0.58,0.45,0.073,80,33.6520202,73.076983
+Rawalpindi,Saidpur Road,26.0,26.0,1.192,2,33.6248533,73.0618024
+Rawalpindi,Samarzar Housing Society,0.25,0.26,0.047,3,33.5262396,73.0484983
+Rawalpindi,Sarwar Road,22.0,22.0,0.55,1,33.5940526,73.0614768
+Rawalpindi,Satellite Town,3.34,3.05,0.786,4,33.63757,73.0733589
+Rawalpindi,Satellite Town - Block A,6.98,6.98,0.775,2,33.6455173,73.0591648
+Rawalpindi,Satellite Town - Block E,1.45,1.45,0.362,2,33.6455173,73.0591648
+Rawalpindi,Satellite Town - Block F,9.0,9.0,1.286,1,33.6379199,73.0715783
+Rawalpindi,Shadman Town,1.3,1.3,0.108,1,33.556923,73.0226143
+Rawalpindi,Sher Zaman Colony,0.38,0.38,0.19,1,33.5623376,73.0448602
+Rawalpindi,Silver City,0.23,0.2,0.038,11,33.5469406,72.9455761
+Rawalpindi,Taj Residencia,1.01,0.95,0.147,41,33.589782,72.9679336
+Rawalpindi,Taj Residencia - Daffodils Block,0.81,0.82,0.128,16,33.5855,72.9348
+Rawalpindi,Taj Residencia - Gardenia Block,0.97,0.85,0.164,27,33.5855,72.9348
+Rawalpindi,Taj Residencia - Iris Block,0.64,0.64,0.08,1,33.5855,72.9348
+Rawalpindi,Taj Residencia - Lily Block,0.98,0.92,0.173,13,33.5855,72.9348
+Rawalpindi,Taj Residencia - Marigold Block,0.45,0.45,0.09,1,33.5855,72.9348
+Rawalpindi,Taj Residencia - Orchard Block,1.68,1.35,0.124,17,33.5855,72.9348
+Rawalpindi,Taj Residencia - Rose Block,1.1,1.1,0.11,15,33.5855,72.9348
+Rawalpindi,Taj Residencia - Tulip Block,2.25,2.15,0.148,12,33.5855,72.9348
+Rawalpindi,Taj Residencia - Zinnia Block,3.5,3.5,0.088,1,33.5855,72.9348
+Rawalpindi,Top City-1,1.92,2.17,0.155,6,33.5763317,72.8692628
+Rawalpindi,Tulsa Road,2.04,2.35,0.267,3,33.5640665,73.0353835
+Rawalpindi,UpCountry Enclosures Housing Society,0.59,0.5,0.063,64,33.5412,72.8845
+Rawalpindi,UpCountry Enclosures Society - Block F,0.45,0.34,0.06,17,33.5412,72.8845
+Rawalpindi,UpCountry Enclosures Society - Block G,1.03,1.03,0.075,2,33.5412,72.8845
+Rawalpindi,UpCountry Enclosures Society - Block H,0.43,0.38,0.071,11,33.5412,72.8845
+Rawalpindi,Westridge 1,4.47,4.47,0.25,2,33.6111988,73.0153944
+Rawalpindi,Westridge 2,6.08,4.9,0.307,3,33.6175671,73.0276852
